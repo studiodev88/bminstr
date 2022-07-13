@@ -77,8 +77,8 @@ Gdy instalacja się zakończy, system przeniesie cię automatycznie do Konfigura
 
 ![Ustawienia](https://raw.githubusercontent.com/studiodev88/bminstr/main/img/konfiguracja-modulu.png)
 
-##Ustawienia
-###Zakładka uwierzytelnianie
+## Ustawienia
+### Zakładka uwierzytelnianie
 
 1. Tryb testowy – zmiana trybu pracy bramki na testowy umożliwia weryfikację działania modułu bez konieczności rzeczywistego opłacania zamówienie (w trybie testowym nie pobierane są żadne opłaty za zamówienie).
 2. Identyfikator serwisu – składa się tylko z cyfr i jest inny dla każdego sklepu (uzyskasz go od Blue Media).
@@ -86,7 +86,7 @@ Gdy instalacja się zakończy, system przeniesie cię automatycznie do Konfigura
 
 Jeśli masz więcej niż jedną walutę w sklepie, to pola Identyfikator i Klucz współdzielony będą powielone, żeby można było je przypisać do każdej z walut. 
 
-###Zakładka płatności 
+### Zakładka płatności 
 1. Pokazuj metody płatności w sklepie – gdy opcja jest włączona, klient zobaczy wszystkie dostępne metody płatności (np. BLIK, przelew internetowy, itp.) już na stronie sklepu. Dzięki temu łatwiej i szybciej wybierze tę dogodną dla siebie.
 2. Nazwa modułu płatności w sklepie – jak ma zostać nazwana płatność w której wybieramy bank, za pomocą którego płaci klient.
 3. Lista kanałów płatności – wyświetlona jest lista dostępnych bramek, pozwala na ustawianie kolejności banków metodą 'przeciągnij i upuść'.
@@ -96,7 +96,7 @@ Jeśli masz więcej niż jedną walutę w sklepie, to pola Identyfikator i Klucz
 - Płatność zatwierdzona – status zamówienia w sklepie – ustawiany po potwierdzeniu płatności.
 - Płatność nieudana – status ustawiany w przypadku niepowodzenia płatności lub gdy płatności nie została zrealizowana przez dłuży czas (czas ten ustalamy dla każdego sklepu indywidualnie).
 
-###Zakładka analityka 
+### Zakładka analityka 
 Rozszerzyliśmy możliwości analityczne modułu, poprzez podłączenie dodatkowych zdarzeń w Google Analytics. Żeby z nich korzystać, należy dodać Identyfikator konta Google w widocznym poniżej polu.
 
 Dzięki połączeniu możesz dowiedzieć się m.in. jaka jest konwersja poszczególnych metod płatności lub jak wygląda lejek sprzedażowy na etapie płatności.
