@@ -1,4 +1,5 @@
-# Moduł Płatności BlueMedia dla platformy PrestaShop 1.7
+# Instrukcja modułu BluePayment dla platformy PrestaShop 1.7
+**Wersja wtyczki**: 2.5.1
 
 ## Podstawowe informacje
 BluePayment to moduł płatności umożliwiający realizację transakcji bezgotówkowych w sklepie opartym na platformie PrestaShop 1.7.
@@ -39,7 +40,7 @@ Po pozytywnej weryfikacji przez Blue Media, płatności online zostaną aktywowa
 
 ![Logowanie](https://user-images.githubusercontent.com/87177993/130193963-b91d3de8-57a6-4c62-80e3-64a2ce93d735.png)
 
-3) Po zalogowaniu się przejdź do zakładki **Moduły > Moduły i usługi** i:
+3) Po zalogowaniu się przejdź do zakładki **Moduły > Moduły i usługi** (lub **Menedżer modułów** – w zależności od wersji sklepu).
 - kliknij **Dodaj nowy moduł** (widoczny w prawym górnym rogu), by wgrać paczkę plików, którą pobrałeś w poprzednim kroku;
 
 ![Dodaj nowy moduł](https://user-images.githubusercontent.com/87177993/130194405-94fe13b7-e2f8-4ea9-bea0-8db12ebeeb9e.png)
@@ -48,7 +49,7 @@ Po pozytywnej weryfikacji przez Blue Media, płatności online zostaną aktywowa
 
 - kliknij **Załaduj moduł**
 
-Gdy instalacje się zakończy, system przeniesie cię automatycznie do Konfiguracji modułu.
+Gdy instalacja się zakończy, system przeniesie cię automatycznie do Konfiguracji modułu.
 
 ![Konfiguracja](https://user-images.githubusercontent.com/87177993/130194624-c8371417-f31d-44ea-ba0b-872e878de014.png)
 
